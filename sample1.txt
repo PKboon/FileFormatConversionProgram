@@ -1,0 +1,5 @@
+feet per mile|5,280|quotes in "middle" of field|0.00|0.00|1,000.00
+"beginning" quote|quote at "end"|Boston, Massachusetts|123.29|0.00|876.71
+|Text with comma, in the middle|"Quoted Text"|58,378.53|0.00|798.18
+non-descript text|12/31/2012|||0.00|933.51
+"Alpha Kappa Mu"|BHCC Honors Society|Recognition for all that hard work

@@ -1,0 +1,4 @@
+Account number|Customer number|Customer Name|Transaction ID|Previous Balance|Transaction Type|Transaction Amount|Final Balance|Comment
+8034234|8002|Washington, George|4003|4,305.44|withdrawal|150|4,155.44|Cherry tree damages
+9843535|9342|Adams, John|2257|6,030.32|deposit|300|6,330.32|Bonus for loud voice
+300524|8432|Jefferson, Thomas|2154|3,000.09|withdrawal|214|2,786.09|travel fees
